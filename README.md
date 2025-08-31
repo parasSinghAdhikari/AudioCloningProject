@@ -118,7 +118,13 @@ Generates speech using the fine-tuned model:
 
 ### Custom Text Generation
 ```python
-text = "Your custom text here"
+text = "Resemble AI can clone a voice with just a few minutes of recorded data, making it possible to
+generate realistic speech that closely matches the original speaker’s tone, style, and personality
+.Learning a new skill is like planting a seed; with patience, effort, and care, it will grow into something meaningful and rewarding over time.
+In today’s fast-paced digital world, communication has become more instant than ever, but the value of genuine human connection remains timeless.
+Technology is changing the way we live, work, and communicate with each other.
+Artificial intelligence is not here to replace humans, but to help us work smarter and faster.
+Reading books can transport you into different worlds and expand your imagination."
 speaker_id = 0
 # Generate audio using the trained model
 ```
